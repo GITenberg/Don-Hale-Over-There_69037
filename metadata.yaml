@@ -1,5 +1,8 @@
 _repo: Don-Hale-Over-There_69037
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69037-h/images/cover.jpg
 creator:
   author:
     agent_name: Sheppard, W. Crispin (William Crispin)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '42146'
     url: http://www.gutenberg.org/2009/agents/42146
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69037#Don-Hale-Over-There
 gutenberg_issued: '2022-09-24'
 identifiers:
   gutenberg: '69037'
